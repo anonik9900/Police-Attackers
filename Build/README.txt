@@ -27,7 +27,7 @@ Put "policeattackers.cs" into scripts folder (ex: C:\Program Files (x86)\Grand T
 
 Start GTA V.
 
-COMAND :
+COMMANDS :
 
 Press "U" to spawn Police Enemy
 
